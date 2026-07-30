@@ -1,0 +1,15 @@
+# Python
+backend/venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Generated files
+backend/ATS_Report.pdf
+backend/generated_reports/
+
+# Node
+frontend/node_modules/
+
+# macOS
+.DS_Store
